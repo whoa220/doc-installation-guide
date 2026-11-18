@@ -69,7 +69,7 @@ If another operating system is present on the computer, the installer shows you 
 
     Linux Mint requires one partition to be mounted on the root ``/`` directory.
 
-    The Linux Mint operating system (without additional software or personal data) takes roughly 15GB, so give this partition a decent size (100GB or more).
+    The Linux Mint operating system (without additional software or personal data) takes roughly 20GB, so give this partition a decent size (100GB or more).
 
     ``ext4`` is recommended. It is the most popular Linux filesystem.
 
